@@ -1,7 +1,7 @@
 # Hackaton deco.cx 2023
 
 - Team: JVL Tech
-- Application URL: hackaton-deco-cx-2023.vercel.app
+- Application URL: https://hackaton-deco-cx-2023.vercel.app/
 - Project UI Design: https://www.figma.com/file/uqpUMyWoLXBdrFluI7XBk2/%5BJVL-Tech%5D-Hackaton-Deco.cx-2023?type=design&node-id=0%3A1&mode=design&t=TQXEXyIX23ZT2R1F-1
 - Stack used to develop the application: Next.js
 
