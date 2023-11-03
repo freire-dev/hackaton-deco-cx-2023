@@ -1,10 +1,10 @@
 import Head from "next/head";
-import CTA from "@/components/Modal/CTA";
+import CTA from "@/components/modal/CTA";
 import { AppStateProvider } from "@/hooks/AppStateContext";
-import Forms from "@/components/Modal/Forms";
-import Cadastro from "@/components/Forms/Cadastro";
-import CompraRapida from "@/components/Botao/CompraRapida";
-import ConfirmarCompra from "@/components/Forms/ConfirmarCompra";
+import Forms from "@/components/modal/Forms";
+import Cadastro from "@/components/forms/Cadastro";
+import CompraRapida from "@/components/buttons/CompraRapidaBtn";
+import ConfirmarCompra from "@/components/forms/ConfirmarCompra";
 
 export default function Home() {
   return (
