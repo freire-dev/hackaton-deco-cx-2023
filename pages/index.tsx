@@ -3,7 +3,7 @@ import CTA from "@/components/Modal/CTA";
 import { AppStateProvider } from "@/hooks/AppStateContext";
 import Forms from "@/components/Modal/Forms";
 import Cadastro from "@/components/Forms/Cadastro";
-import CompraRapida from "../components/Buttons/CompraRapida";
+import CompraRapida from "@/components/Botao/CompraRapida";
 import ConfirmarCompra from "@/components/Forms/ConfirmarCompra";
 
 export default function Home() {

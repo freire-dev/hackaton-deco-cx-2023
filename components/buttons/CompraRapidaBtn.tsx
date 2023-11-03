@@ -1,9 +1,9 @@
 import { useAppState } from "@/hooks/AppStateContext"; 
 
-const CompraRapida = () => {
+const CompraRapidaBtn = () => {
   const { globalState, setGlobalState } = useAppState();
 
-  const confirmarCompra = () => {
+  const confirmarCompraBtn = () => {
     setGlobalState((prevState: any) => ({
       ...prevState,
       Confirmacao: true,
@@ -13,7 +13,7 @@ const CompraRapida = () => {
   return (
     <div>
       <button
-        onClick={confirmarCompra}
+        onClick={confirmarCompraBtn}
         style={{
           display: globalState.Cadastrado ? "block" : "none",
           background: "green",
@@ -30,4 +30,4 @@ const CompraRapida = () => {
   );
 };
 
-export default CompraRapida;
+export default CompraRapidaBtn;
