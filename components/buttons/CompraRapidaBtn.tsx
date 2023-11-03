@@ -21,7 +21,7 @@ const CompraRapidaBtn = () => {
           border: "none",
           padding: "10px 20px",
           fontWeight: "bold",
-          fontSize: 21,
+          fontSize: 22,
         }}
       >
         COMPRA RÁPIDA
