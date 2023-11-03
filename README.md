@@ -1,4 +1,4 @@
-# Hackaton deco.cx
+# Hackaton deco.cx 2023
 
 - Team: JVL Tech
 - Project UI Design: https://www.figma.com/file/uqpUMyWoLXBdrFluI7XBk2/%5BJVL-Tech%5D-Hackaton-Deco.cx-2023?type=design&node-id=0%3A1&mode=design&t=TQXEXyIX23ZT2R1F-1
